@@ -8,6 +8,7 @@ This project is a decentralized exchange (DEX) for trading an ERC-20 token calle
 - **Sell NHC Tokens:** Sell NHC tokens back in exchange for ETH.
 - **Withdraw ETH:** The contract owner can withdraw accumulated ETH.
 - **Connect Wallet:** Users can connect their MetaMask wallet to interact with the platform.
+- **NOTE** The contract contains 1000 NHC 
 
 ## Technologies Used
 - Solidity (Smart Contracts)
