@@ -14,9 +14,10 @@ This project is a decentralized exchange (DEX) for trading an ERC-20 token calle
 - OpenZeppelin ERC-20 Implementation
 - React (Frontend)
 - Bootstrap (Styling)
-- Web3.js (Ethereum Interaction)
+- **Web3.js (Ethereum Interaction)**
+- **Web3Modal (Wallet Connection)**
 
-## Demo
+
 ## Demo
 
 [![Demo Video](https://img.youtube.com/vi/iiRc0pbCUeA/0.jpg)](https://youtu.be/iiRc0pbCUeA)
@@ -27,7 +28,7 @@ This project is a decentralized exchange (DEX) for trading an ERC-20 token calle
 ## Setup Instructions
 ### 1. Smart Contract Deployment (Remix)
 1. Open [Remix IDE](https://remix.ethereum.org/)
-2. Create two Solidity files:
+2. Create one Solidity file:
    - `NahidaToken.sol` (ERC-20 Token Contract)
 3. Compile the contracts and deploy them using Injected Web3 (MetaMask).
 
