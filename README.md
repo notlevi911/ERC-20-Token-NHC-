@@ -19,7 +19,7 @@ This project is a decentralized exchange (DEX) for trading an ERC-20 token calle
 ## Demo
 [![Demo Video](https://img.youtube.com/vi/https://youtu.be/iiRc0pbCUeA/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/iiRc0pbCUeA)
 
-_Replace `YOUR_VIDEO_ID_HERE` with your YouTube video ID_
+
 
 ## Setup Instructions
 ### 1. Smart Contract Deployment (Remix)
