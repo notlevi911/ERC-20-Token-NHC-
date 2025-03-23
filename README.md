@@ -17,7 +17,7 @@ This project is a decentralized exchange (DEX) for trading an ERC-20 token calle
 - Web3.js (Ethereum Interaction)
 
 ## Demo
-[![Demo Video](https://img.youtube.com/vi/https://youtu.be/iiRc0pbCUeA/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/iiRc0pbCUeA)
+[![Demo Video](https://img.youtube.com/vi/https://https://youtu.be/iiRc0pbCUeA/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/iiRc0pbCUeA)
 
 
 
